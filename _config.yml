@@ -1,0 +1,12 @@
+# Site settings
+title: /dev/random - Alex Luhrman
+email: alex@luhrman.org
+description: 
+  Random musings on travelling, hacking, open source software, data visualisation, data processing, graph databases, and other personal interests
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://luhrman.org" # the base hostname & protocol for your site
+twitter_username: AlexLuhrman
+github_username:  aluhrman
+
+# Build settings
+markdown: kramdown
